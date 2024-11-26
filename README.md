@@ -1,4 +1,4 @@
 # Demo
-Author- Prajayshee
+Author- Prajayshee Chauhan
 <br>
 Hello
